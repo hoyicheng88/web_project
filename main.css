@@ -155,14 +155,14 @@ background: -moz-linear-gradient(right,rgb(97, 97, 97), white);
 background: linear-gradient(to right,rgb(97, 97, 97), white);
 position: absolute;
 width: 20px;
-height: 5000px;
+height: 5100px;
 top:562px;
 right: 374px;
 }
 #rightpage{
 background-color: #A9D8F2;
 top:554px;
-height: 5000px;
+height: 5100px;
 position: absolute;
 z-index: 0;
 width: 374px;
@@ -235,5 +235,5 @@ font-size: xx-large;
 #fb{
     position: absolute;
     left: 0;
-    top: 5262px;
+    top: 5362px;
 }
