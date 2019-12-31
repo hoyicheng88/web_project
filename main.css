@@ -232,3 +232,7 @@ letter-spacing: 2px;
 line-height: 40px;
 font-size: xx-large;
 }
+.fb-comments{
+    position: absolute;
+    bottom: 0;
+}
