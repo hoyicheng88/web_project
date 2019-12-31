@@ -13,6 +13,7 @@
     left: 200px;
     opacity: 0;
     filter: alpha(opacity=0);
+    z-index: 1001;
 }
 .slider_container div {
     -webkit-animation: round 25s linear infinite;
